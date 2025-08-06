@@ -29,5 +29,4 @@ Understanding visual mood and brand expression
 
 🚀 Live Preview
 👉 Click here to view Mood Board
-(Replace yourusername with your actual GitHub username)
-
+https://adeife25.github.io/mood-board/
